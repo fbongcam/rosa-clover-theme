@@ -1,11 +1,11 @@
 # rosa
 A modern and minimalistic theme for [Clover Bootloader](https://sourceforge.net/projects/cloverefiboot/).
 
-[main]: https://github.com/fbongcam/rosa-clover-theme/raw/master/screenshots/main.png
+![main](/screenshots/main.png)
 
-[mac-alt]: https://github.com/fbongcam/rosa-clover-theme/raw/master/screenshots/mac-alt.png
+![mac-alt](/screenshots/mac-alt.png)
 
-[about]: https://github.com/fbongcam/rosa-clover-theme/raw/master/screenshots/about.png
+![about](/screenshots/about.png)
 
 #### Installation
 
